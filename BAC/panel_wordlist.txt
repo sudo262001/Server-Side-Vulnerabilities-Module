@@ -1,0 +1,16 @@
+/admin
+/admin-panel
+/administrator-panel
+/cp
+/admincp
+/panel
+/dashboard
+/backend
+/manager
+/root
+/webadmin
+/administrator
+/siteadmin
+/admin_area
+/admincontrol
+/sysadmin
